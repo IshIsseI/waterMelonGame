@@ -1,5 +1,3 @@
-
-https://github.com/user-attachments/assets/c2b92da5-28d9-4f48-880b-1ef7015fb7b2
 # スイカゲーム風のもの
 
 ## 概要
@@ -9,4 +7,4 @@ https://github.com/user-attachments/assets/c2b92da5-28d9-4f48-880b-1ef7015fb7b2
 Unity / C#
 
 ## ゲーム内動画
-Uploading melon.mp4…
+https://github.com/user-attachments/assets/c2b92da5-28d9-4f48-880b-1ef7015fb7b2
